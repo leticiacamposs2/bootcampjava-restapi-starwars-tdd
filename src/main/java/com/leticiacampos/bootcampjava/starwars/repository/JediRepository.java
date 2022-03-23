@@ -1,6 +1,6 @@
-package com.bootcampjava.starwars.repository;
+package com.leticiacampos.bootcampjava.starwars.repository;
 
-import com.bootcampjava.starwars.model.Jedi;
+import com.leticiacampos.bootcampjava.starwars.model.Jedi;
 
 import java.util.List;
 import java.util.Optional;

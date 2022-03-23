@@ -8,13 +8,15 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bootcampjava.starwars</groupId>
+	<groupId>com.leticiacampos.bootcampjava.starwars</groupId>
 	<artifactId>Bootcamp-Java-Star-Wars</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Bootcamp-Java-Star-Wars</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
+		<maven.compiler.source>8</maven.compiler.source>
+		<maven.compiler.target>8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>

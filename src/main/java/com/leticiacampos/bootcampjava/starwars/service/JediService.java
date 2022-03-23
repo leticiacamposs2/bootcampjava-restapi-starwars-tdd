@@ -1,8 +1,7 @@
-package com.bootcampjava.starwars.service;
+package com.leticiacampos.bootcampjava.starwars.service;
 
-
-import com.bootcampjava.starwars.model.Jedi;
-import com.bootcampjava.starwars.repository.JediRepositoryImpl;
+import com.leticiacampos.bootcampjava.starwars.model.Jedi;
+import com.leticiacampos.bootcampjava.starwars.repository.JediRepositoryImpl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Service;

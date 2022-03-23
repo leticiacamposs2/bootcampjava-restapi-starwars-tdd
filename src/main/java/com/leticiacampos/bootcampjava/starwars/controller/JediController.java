@@ -1,7 +1,7 @@
-package com.bootcampjava.starwars.controller;
+package com.leticiacampos.bootcampjava.starwars.controller;
 
-import com.bootcampjava.starwars.model.Jedi;
-import com.bootcampjava.starwars.service.JediService;
+import com.leticiacampos.bootcampjava.starwars.model.Jedi;
+import com.leticiacampos.bootcampjava.starwars.service.JediService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.http.HttpStatus;
